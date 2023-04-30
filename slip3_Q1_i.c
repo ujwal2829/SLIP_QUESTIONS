@@ -6,4 +6,5 @@ int main(int argc, int *argv[])
     b = atoi(argv[2]);
     c = a+b;
     printf("Sum = %d",c);
+    return 0;
 }
