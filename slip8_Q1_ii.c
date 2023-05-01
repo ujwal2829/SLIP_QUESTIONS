@@ -2,7 +2,8 @@
 void main()
 {
     char str[10];
-    int i,ccount = 0,vcount = 0;
+    int i;
+    int ccount = 0,vcount = 0;
     printf("Enter the sring:---");
     scanf("%s",str);
     for (i=0; i<str[i]; i++)
